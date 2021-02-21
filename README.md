@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # Chuck Norris Jokes App
 
 A React Application that consumes the [Chuck Norris API](https://api.chucknorris.io/)
-View App => [https://dreamertram.github.io/chucknorrisapp/](https://dreamertram.github.io/chucknorrisapp/)
+View App => [https://dianahcaccue.github.io/chucknorrisapp/](https://dianahcaccue.github.io/chucknorrisapp/)
 
 ## Technologies Used
 
